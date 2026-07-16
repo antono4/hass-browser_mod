@@ -1,5 +1,8 @@
 # browser_mod
 
+> **Created by Antono**
+
+
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-orange.svg)](https://github.com/custom-components/hacs)
 
 A Home Assistant integration to turn your browser into a controllable entity - and also an audio player and a security camera (WIP).
